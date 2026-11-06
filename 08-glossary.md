@@ -1,141 +1,133 @@
 # Glossary
 
-Access NFT
+### Access NFT
 
-A non-fungible token that functions as an entry point to the Fractionalised World ecosystem. Ownership of an Access NFT enables participation in ecosystem mechanics including staking participation tiers and promotional reward events.
+A non-fungible token that functions as an entry point to the FRW ecosystem. Ownership of an Access NFT enables participation in ecosystem mechanics including staking participation tiers and community engagement initiatives.
 
-Affiliated Entities
+### Affiliated Entities
 
 Any separately incorporated company, subsidiary, holding entity or related party associated with the broader Fractionalised World corporate structure, whether currently established or formed in the future. Each affiliated entity operates under its own independent corporate and legal framework and assumes no obligations toward ecosystem participants.
 
-# BBA NFT
+### BBA NFT
 
-Big Bang Access NFT. The first iteration of the Access NFT within the Fractionalised World ecosystem. The supply is limited to a maximum of 20,000 tokens.
+Big Bang Access NFT. The first iteration of the Access NFT within the FRW ecosystem. The supply is not subject to a fixed maximum. A figure of 20,000 is used for illustrative purposes within this whitepaper.
 
-BNB Chain
+### Community Engagement Initiatives
 
-A blockchain network on which the FRW token is deployed. BNB Chain supports decentralised applications and digital asset transactions.
+Ecosystem programmes designed to encourage participation, testing, education, contribution and engagement. Individual initiatives may include quests, campaigns, testing programmes, airdrops and other activities, with eligibility and participation requirements defined separately for each initiative.
 
-DApp
+### Ethereum
+
+A blockchain network on which the FRW token is deployed. Ethereum supports decentralised applications and digital asset transactions.
+
+### DApp
 
 Decentralised Application. A software application that operates on a blockchain network rather than a centralised server environment. The Fractionalised World DApp is the interface through which participants interact with ecosystem features.
 
-DeFi
+### DeFi
 
 Decentralised Finance. A category of blockchain-based applications that provide financial-style functionality without traditional centralised intermediaries.
 
-Digital Fusions
+### Digital Fusions
 
-The proprietary engagement framework within the Fractionalised World ecosystem through which participants interact with Access NFTs, Themed NFTs and token participation mechanics.
+The proprietary Fractionalised World framework through which real-world businesses, products, services, experiences and commercial relationships can be integrated into the FRW ecosystem.
 
-These mechanics activate structured token distribution parameters within the platform.
+Individual Digital Fusions may create functionality involving access, utility, benefits, participation and engagement for ecosystem participants.
 
-Separately and independently of participant activity, Fractionalised World and its affiliated entities may allocate company capital into various sectors or opportunities as determined by the company from time to time.
+Digital Fusions do not fractionalise underlying businesses or assets and do not provide FRW or NFT holders with ownership, equity, revenue, profit, dividend or asset rights in the underlying businesses or commercial activities.
 
-Participation does not grant ownership, equity rights or entitlement to assets managed by Fractionalised World or its affiliated entities.
+Company-level commercial activities and capital deployment remain separate from participant ownership.
 
-Emission
+### Emission
 
 The process by which FRW tokens are distributed within the ecosystem through a structured smart-contract distribution model.
 
-# FRW Token
+### FRW Token
 
-The native utility token of the Fractionalised World ecosystem deployed on BNB Chain. The token supports staking participation tiers, ecosystem interaction and token distribution mechanics. Maximum supply: 10,000,000,000 tokens.
+The native utility token of the FRW ecosystem deployed on Ethereum. The token supports staking participation tiers, ecosystem interaction and token distribution mechanics. Maximum supply: 10,000,000,000 tokens.
 
-Gamified Experience
+### Gamified Experience
 
-The use of interactive mechanics such as participation tiers, multipliers and promotional reward events designed to encourage engagement within the ecosystem.
+The use of interactive mechanics such as participation tiers, multipliers, quests and community engagement initiatives designed to encourage interaction within the ecosystem.
 
-Mint
+### Mint
 
 The process of creating a new NFT on a blockchain network. Participants mint Access NFTs and Themed NFTs to activate participation within the ecosystem.
 
-Multiplier
+### Multiplier
 
 A feature associated with Themed NFTs that adjusts the token distribution parameters applied to a participant’s combined emission base.
 
-# NFT
+### NFT
 
 Non-Fungible Token. A unique blockchain-based digital asset that cannot be replicated and is distinguishable from other tokens.
 
-Platform Capital Allocation
+### Platform Capital Allocation
 
 The portion of proceeds generated from NFT mint activity that Fractionalised World and its affiliated entities may allocate into sectors, opportunities or operational initiatives as determined by the company.
 
-NFT holders do not receive ownership rights, profit participation or legal claims over assets acquired or managed through these allocations.
+NFT holders do not receive ownership rights, profit participation or legal claims over assets acquired or managed through these allocations. Such allocation occurs at company level and does not create ownership, profit participation, revenue rights or other claims for ecosystem participants.
 
-Pioneer Bundle
+Capital allocation may result in businesses, products, services or commercial relationships that subsequently interact with the FRW ecosystem through Digital Fusions; such interaction does not create ownership or economic rights for ecosystem participants.
 
-An entry package to the Fractionalised World ecosystem available after the Whitelist Bundle phase. The package includes one BBA NFT, one Themed NFT and 500 FRW tokens.
+### Pioneer Bundle
 
-Promotional Reward Event
+An entry package to the FRW ecosystem available after the Whitelist Bundle phase. The package includes one BBA NFT, one Themed NFT and 500 FRW tokens.
 
-A periodic promotional distribution mechanism funded through a portion of NFT mint proceeds. Eligibility for participation may be linked to ownership of Access NFTs or Themed NFTs and may vary depending on jurisdictional requirements.
-
-Promotional reward events may be modified, restricted or discontinued where necessary to comply with applicable laws.
-
-Seed Round
+### Seed Round
 
 An early ecosystem support phase during which a limited number of participants supported the initial development phase of the platform in exchange for token allocations subject to a staged release schedule.
 
-Smart Contract
+### Smart Contract
 
 A self-executing program deployed on a blockchain that automatically enforces predefined rules without requiring intermediaries.
 
-Staking
+### Staking
 
 The process of locking FRW tokens within the ecosystem in order to activate participation tiers that determine token emission parameters within the structured distribution model.
 
-Staking Distribution Contract
+### Staking Distribution Contract
 
-The smart contract holding 9,975,000,000 FRW tokens representing 99.75% of the total token supply from which all staking tier allocations are distributed according to predetermined emission parameters. The contract operates autonomously on BNB Chain and forms the structural basis of the ecosystem's long-term token distribution framework.
+The smart contract holding 9,975,000,000 FRW tokens representing 99.75% of the total token supply from which all staking tier allocations are distributed according to predetermined emission parameters. The contract operates autonomously on Ethereum and forms the structural basis of the ecosystem's long-term token distribution framework.
 
-Structured Emissions
+### Structured Emissions
 
 A token distribution model used by the ecosystem whereby tokens are allocated through predefined emission parameters embedded in smart contracts rather than through percentage-based yield calculations.
 
-Themed NFTs
+### Themed NFTs
 
 NFTs representing participation in distinct thematic chapters aligned with historical eras, sectors or conceptual stages of global development.
 
-Themed NFTs adjust token distribution parameters and may provide additional eligibility for promotional reward events.
+Themed NFTs adjust token distribution parameters and may enable interaction with additional ecosystem participation functionality and community engagement initiatives.
 
 Ownership of Themed NFTs does not grant ownership rights or legal claims over assets managed by Fractionalised World or its affiliated entities.
 
-Utility Token
+### Utility Token
 
 A digital token designed primarily to provide access to ecosystem functionality rather than to represent ownership, equity or financial entitlement.
 
-Whale Bundle
+### Whale Bundle
 
 A limited entry package restricted to a small number of participants that includes one BBA NFT, multiple Themed NFTs and a predefined quantity of FRW tokens.
 
-Whitelist Bundle
+### Whitelist Bundle
 
 An early access ecosystem package available during the initial launch phase that includes an Access NFT, a Themed NFT and FRW tokens distributed under the launch framework.
 
-Terms and definitions in this glossary are specific to the Fractionalised World ecosystem and are provided for informational purposes only.
+Terms and definitions in this glossary are specific to the FRW ecosystem and are provided for informational purposes only.
 
-Fractionalised World is committed to building a transparent, sustainable and compliant ecosystem that connects blockchain participation with real-world economic activity. This whitepaper represents the design and intentions of the project at the time of publication. All aspects of the ecosystem remain subject to development, refinement and legal review as the
+Fractionalised World is committed to building a transparent, sustainable and compliant ecosystem that connects digital participation with real-world products, services, experiences and commercial activity. This whitepaper represents the design and intentions of the project at the time of publication. All aspects of the ecosystem remain subject to development, refinement and legal review as the platform evolves.
 
-platform evolves.
+Participants are encouraged to engage with the ecosystem thoughtfully, to read all risk disclosures carefully and to seek independent advice where appropriate. Fractionalised World welcomes its community and looks forward to building something genuinely lasting together.
 
-Participants are encouraged to engage with the ecosystem thoughtfully, to read all risk disclosures carefully and to seek independent advice where appropriate. Fractionalised World welcomes its community and looks forward to building something genuinely lasting
+This document does not constitute financial advice, an offer to sell or a solicitation to buy any financial product or security. All figures are illustrative. Participation involves risk.
 
-together.
-
-This document does not constitute financial advice, an offer to sell or a solicitation to buy any
-
-financial product or security. All figures are illustrative. Participation involves risk.
-
-Copyright and contact
+### Copyright and contact
 
 Copyright © Fractionalised World 2026. All rights reserved.
 
-Info@Fractionalisedworld.com
+### Info@Fractionalisedworld.com
 
-This document may not be reproduced, altered or misrepresented without prior written
+This document may not be reproduced, altered or misrepresented without prior written consent of Fractionalised World.
 
-consent of Fractionalised World.
-
-Version 1.0 March 2026
+### Version 1.4 September 2026
